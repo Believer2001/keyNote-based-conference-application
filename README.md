@@ -11,3 +11,16 @@
     ![image](./images/keynote/img_1.png)
     
     ![image](./images/keynote/img_2.png)
+
+<h2>Gateway service with Keynote services</h2>
+
+- Creation du  gateway service avec les dépendance suivantes :
+
+  - Spring cloud gateway
+  - Spring Boot Actuator
+  - Spring cloud Eureka client
+  - Spring cloud cloud configuration
+
+- Execution du gateway service interface 
+
+![image](./images/gateway/img.png)
